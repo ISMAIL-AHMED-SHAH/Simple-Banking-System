@@ -104,3 +104,5 @@ if st.button("Withdraw"):
 # --- Footer Message ---
 st.markdown("---")
 st.info("🔐 This is a demo banking app. All data is session-based and will reset on refresh.")
+
+st.image("gitbank-bg.png", width=700, use_container_width=True)
