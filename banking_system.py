@@ -48,7 +48,7 @@ st.markdown(
 )
 
 # --- Sidebar ---
-st.sidebar.image("https://cdn-icons-png.flaticon.com/512/3135/3135715.png", width=90)
+# st.sidebar.image("https://cdn-icons-png.flaticon.com/512/3135/3135715.png", width=90)
 st.sidebar.image("bank.svg", width=190)
 st.sidebar.header("💡 Banking Tips")
 st.sidebar.markdown("- Always track your spending.")
